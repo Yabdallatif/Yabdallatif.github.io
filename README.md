@@ -17,10 +17,10 @@ layout: page
   <tr>
    <th>Movies</th>
    <th>Anime</th>
-  </tr>]
+  </tr>
   <tr>
    <td>The Beekeeper</td>
-   <td>One Piece </td>]
+   <td>One Piece </td>
   </tr>
   <tr>
    <td>Godzilla</td>
