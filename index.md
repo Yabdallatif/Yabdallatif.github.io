@@ -16,24 +16,24 @@ title: "Home"
 
 <table style="width:40%">
   <tr>
-    <th>Day 1</th>
-    <th>Day 2</th>
+   <th>Day 1</th>
+   <th>Day 2</th>
   </tr>
   <tr>
-    <td>Arabic</td>
-    <td>U.S Virginia History</td>
+   <td>Arabic</td>
+   <td>U.S Virginia History</td>
   </tr>
   <tr>
-    <td>Sociology</td>
-    <td>Sociology</td>
+   <td>Sociology</td>
+   <td>Sociology</td>
   </tr>
   </tr>
-    <td>English</td>
-    <td>Math(AFDA)</td>
+   <td>English</td>
+   <td>Math(AFDA)</td>
   </tr>
   </tr>
-    <td>Physics</td>
-    <td>Computer Programming</td>
+   <td>Physics</td>
+   <td>Computer Programming</td>
 </table>
 </body>
 </html>
