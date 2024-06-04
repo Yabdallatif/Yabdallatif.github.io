@@ -12,6 +12,13 @@ title: "Home"
 <li> watch my favorite movies and tv shows</li>
 <li>Play online games with my little brother</li>
 </ol>
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style> 
+<body>
 <h2>My School schedule</h2>
 
 <table style="width:40%">
