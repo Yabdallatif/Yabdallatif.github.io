@@ -30,5 +30,5 @@ layout: page
 <tr>
   <td>Transformeers Age of Extinction</td>
   <td>Ninja Kamaui</td>
-</table>
-</body>
+<table>
+<body>
