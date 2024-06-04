@@ -5,15 +5,13 @@ layout: page
 ---
 <p> In my spare time i sometimes usually like to watch Movies and Japanese cartoons called Anime. Here are my favorites:</p>
 
-<html>
-<style>
-table, th, td {
+
   border:1px solid black;
 }
 </style>
 <body>
 
-<h2>My School schedule</h2>
+<h2>My Favorite Films/Animes</h2>
 
 <table style="width:40%">
   <tr>
