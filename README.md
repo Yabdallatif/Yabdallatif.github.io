@@ -6,9 +6,6 @@ layout: page
 <p> In my spare time i sometimes usually like to watch Movies and Japanese cartoons called Anime. Here are my favorites:</p>
 
 
-
-}
-</style>
 <body>
 
 <h2>My Favorite Films/Animes</h2>
