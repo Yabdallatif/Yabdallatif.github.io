@@ -17,22 +17,22 @@ table, th, td {
 
 <table style="width:40%">
   <tr>
-    <th>Movies</th>
-    <th>Anime</th>
+   <th>Movies</th>
+   <th>Anime</th>
+  </tr>]
+  <tr>
+   <td>The Beekeeper</td>
+   <td>One Piece </td>]
   </tr>
   <tr>
-    <td>The Beekeeper</td>
-    <td>One Piece </td>
+   <td>Godzilla</td>
+   <td>Solo Leveling</td>
   </tr>
-  <tr>
-    <td>Godzilla</td>
-    <td>Solo Leveling</td>
-  </tr>
-  </tr>
-      <td>American Ultra</td>
-      <td>Attack on Titan</td>
-   </tr>
-   </tr>
+</tr>
+   <td>American Ultra</td>
+   <td>Attack on Titan</td>
+</tr>
+</tr>
       <td>Transformeers Age of Extinction</td>
       <td>Ninja Kamaui</td>
 </table>
