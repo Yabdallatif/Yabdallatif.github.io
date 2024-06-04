@@ -11,21 +11,21 @@ layout: page
 <h2>My Favorite Films/Animes</h2>
 
 <table style="width:40%">
-  <tr>
-   <th>Movies</th>
-   <th>Anime</th>
-  </tr>
-  <tr>
-   <td>The Beekeeper</td>
-   <td>One Piece </td>
-  </tr>
-  <tr>
-   <td>Godzilla</td>
-   <td>Solo Leveling</td>
-  </tr>
+<tr>
+  <th>Movies</th>
+  <th>Anime</th>
 </tr>
-   <td>American Ultra</td>
-   <td>Attack on Titan</td>
+<tr>
+  <td>The Beekeeper</td>
+  <td>One Piece </td>
+</tr>
+<tr>
+  <td>Godzilla</td>
+  <td>Solo Leveling</td>
+</tr>
+</tr>
+  <td>American Ultra</td>
+  <td>Attack on Titan</td>
 </tr>
 </tr>
   <td>Transformeers Age of Extinction</td>
