@@ -1,9 +1,9 @@
 ---
 title: "My Favorite movies/Animes"
-permalink: "/My Favorite movies/Animes/"
+permalink: "/My Favorite movies/Animes and Hobbies/"
 layout: page
 ---
-<p> In my spare time after i do homework, I sometimes usually like to watch Movies and Japanese cartoons called Anime. Here are my top favorites:</p>
+<p> In my spare time after i do homework, I sometimes usually like to watch Movies and Japanese cartoons called Anime and play basketball with my friends. Here are my top favorite Movies and Anime:</p>
 
 
 <body>
