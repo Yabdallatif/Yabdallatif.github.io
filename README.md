@@ -3,7 +3,7 @@ title: "My Favorite movies/Animes"
 permalink: "/My Favorite movies/Animes/"
 layout: page
 ---
-<p> In my spare time i sometimes usually like to watch Movies and Japanese cartoons called Anime. Here are my favorites:</p>
+<p> In my spare time after i do homework, I sometimes usually like to watch Movies and Japanese cartoons called Anime. Here are my top favorites:</p>
 
 
 <body>
