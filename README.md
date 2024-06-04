@@ -33,8 +33,8 @@ table, th, td {
    <td>Attack on Titan</td>
 </tr>
 </tr>
-      <td>Transformeers Age of Extinction</td>
-      <td>Ninja Kamaui</td>
+  <td>Transformeers Age of Extinction</td>
+  <td>Ninja Kamaui</td>
 </table>
 </body>
 </html>
