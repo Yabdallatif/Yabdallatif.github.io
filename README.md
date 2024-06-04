@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "My Favorite movies/Animes"
 permalink: "/about/"
 layout: page
 ---
