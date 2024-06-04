@@ -23,11 +23,11 @@ layout: page
   <td>Godzilla</td>
   <td>Solo Leveling</td>
 </tr>
-</tr>
+<tr>
   <td>American Ultra</td>
   <td>Attack on Titan</td>
 </tr>
-</tr>
+<tr>
   <td>Transformeers Age of Extinction</td>
   <td>Ninja Kamaui</td>
 </table>
