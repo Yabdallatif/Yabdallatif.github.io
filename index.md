@@ -13,29 +13,36 @@ title: "Home"
 <li>Play online games with my little brother</li>
 </ol>
 
+  <html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
 
 <h2>My School schedule</h2>
 
 <table style="width:40%">
   <tr>
-   <th>Day 1</th>
-   <th>Day 2</th>
+    <th>Day 1</th>
+    <th>Day 2</th>
   </tr>
   <tr>
-   <td>Arabic</td>
-   <td>U.S Virginia History</td>
+    <td>Arabic</td>
+    <td>U.S Virginia History</td>
   </tr>
   <tr>
-   <td>Sociology</td>
-   <td>Sociology</td>
+    <td>Sociology</td>
+    <td>Sociology</td>
   </tr>
   </tr>
-   <td>English</td>
-   <td>Math(AFDA)</td>
-  </tr>
-  </tr>
-   <td>Physics</td>
-   <td>Computer Programming</td>
+      <td>English</td>
+      <td>Math(AFDA)</td>
+   </tr>
+   </tr>
+      <td>Physics</td>
+      <td>Computer Programming</td>
 </table>
 </body>
 </html>
