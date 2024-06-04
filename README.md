@@ -32,4 +32,3 @@ layout: page
   <td>Ninja Kamaui</td>
 </table>
 </body>
-</html>
