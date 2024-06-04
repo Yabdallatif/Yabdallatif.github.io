@@ -1,6 +1,6 @@
 ---
 title: "My Favorite movies/Animes"
-permalink: "/about/"
+permalink: "/My Favorite movies/Animes/"
 layout: page
 ---
 
