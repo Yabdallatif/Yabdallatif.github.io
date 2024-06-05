@@ -32,4 +32,4 @@ layout: page
   <td>Ninja Kamaui</td>
 <table>
 <body>
-<img src="image.png"
+<img src="image.png">
